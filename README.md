@@ -1,2 +1,2 @@
 # nodeapp-scalable
-Tutorial on Building a Scalable Nodejs application
+Tutorial on building a scalable Nodejs application
